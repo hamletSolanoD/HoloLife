@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TAPETE_MITOSIS_MEIOSIS" size="700.000000 421.141388" />
+    <ImageTarget name="TARGET_SANGRE_DOS" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_SANGRE_UNO" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_STENTOR" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_EUGLENA" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_VORTICELLA" size="100.000000 147.572083" />
+    <ImageTarget name="TAPETE_ECOSITEMA" size="700.000000 308.261444" />
+    <ImageTarget name="TAPETE_MICROBIOLOGIA_PECERA" size="700.000000 362.442413" />
+    <ImageTarget name="TARGET_VOLVOX" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_AMEBA" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_PARAMECIUM" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_ROTIFEROS" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_DOMINANCIA_INCOMPLETA_2" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_DOMINANCIA_INCOMPLETA_1" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_CODOMINANCIA_1" size="100.000000 147.572083" />
+    <ImageTarget name="TARGET_CODOMINANCIA_2" size="100.000000 147.572083" />
+    <ImageTarget name="Tapete_Taller_Genetica" size="550.000000 327.643646" />
+    <ImageTarget name="TARGET_CONEJO_SILVESTRE" size="100.000000 147.600006" />
+    <ImageTarget name="TARGET_CONEJO_HIMALAYA" size="100.000000 147.600006" />
+    <ImageTarget name="TARGET_CONEJO_CHINICHILLA" size="100.000000 147.600006" />
+    <ImageTarget name="TARGET_CONEJO_ALBINO" size="100.000000 147.600006" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 943f86b647db46843b645e95481236d5
+timeCreated: 1548623542
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Halogen Rough by Pixel Surplus
+  fontNames:
+  - Halogen Rough by Pixel Surplus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

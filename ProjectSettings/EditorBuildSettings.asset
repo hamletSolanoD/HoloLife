@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main.unity
+    guid: 1c33688aea42cda4b92a8dc6987bfce5
+  - enabled: 1
+    path: Assets/Augmented Reality.unity
+    guid: 0f8c826b3bc06dd4a9be5a6aea17e36b
+  - enabled: 1
+    path: Assets/Creditos.unity
+    guid: c2f7f482a356fe74cb97d63abcc8a4b4
+  - enabled: 1
+    path: Assets/instrucciones_Scene.unity
+    guid: 2022e3608c80a4148b46e67863ce818d
+  - enabled: 0
+    path: Assets/Menu_Carga.unity
+    guid: 62962ebf7c7b01649afde11b60edafc5
+  m_configObjects: {}
